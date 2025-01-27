@@ -1,0 +1,132 @@
+*
+{
+  padding: 0%;
+  margin: 0%;
+}
+.search input
+{
+  border: none;
+  border-bottom: 2px solid purple;
+}
+.searchicon
+{
+  margin-left: -15%;
+  margin-top: 10px;
+}
+.navbar
+{
+  width: 60%;
+  margin: auto;
+  font-weight: bold;
+  font-size: 15px;
+}
+.sliderone
+{
+  width: 100%;
+  
+}
+
+.feature
+{
+  margin: auto;
+}
+.featurecart
+{
+  margin: auto;
+}
+.view
+{
+  color: rgb(46, 46, 255);
+}
+.view:hover
+{
+  color: rgb(230, 0, 180);
+}
+.footer p
+{
+  color: black;
+}
+.footerimg :hover
+{
+    color: blue;
+}
+.footertext a
+{
+  color: black;
+  font-size: 14px;
+}
+.footertext a:hover
+{
+  color: rgb(132, 0, 255);
+  font-weight: bold;
+}
+.addtocart
+{
+  text-decoration: none;
+  background-color: #751aff;
+  padding: 10px  40px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+}
+.wishlist
+{
+  text-decoration: none;
+  padding: 10px  40px;
+  border-radius: 10px;
+  color: rgb(66, 66, 66);
+  border: 1px solid gray;
+  font-weight: 500;
+  margin-left: 20px;
+}
+.buttons
+{
+  margin-top: 30px;
+}
+.loginbtn
+{
+  background-color: #751aff;
+  border: none;
+  border-radius: 5px;
+  width: 87%;
+  margin-top: 10px;
+  color: white;
+}
+.container-form
+{
+  width: 60%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.delete
+{
+  margin: 7px 5%;
+  font-size: 20px;
+}
+.logindelete{
+  background-color: rgb(233, 233, 233);
+  width: 95%;
+  transition: 0.5 ease-in-out;
+  h6
+  {
+    color: black;
+  }
+  p{
+    color: black;
+  }
+}
+.logindelete:hover
+{
+  background-color: #751aff;
+
+  h6
+  {
+    color: white;
+  }
+  p{
+    color: white;
+  }
+}
+
+
+
+

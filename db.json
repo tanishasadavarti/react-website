@@ -1,0 +1,684 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dove Glycolic Hydration Conditioner",
+      "volume": "175 ml",
+      "price": 239,
+      "original_price": 299,
+      "discount": "20% off",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/378755/dove-glycolic-hydration-conditioner-175ml_6_display_1713947720_940bcb33.jpg"
+    },
+    {
+      "id": 2,
+      "name": "TRESemme Smooth & Shine Conditioner",
+      "volume": "190 ml",
+      "price": 174,
+      "original_price": 290,
+      "discount": "40% off",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/367307/tresemme-smooth-and-shine-conditioner-190-ml1-12-28-15-41_1_display_1721122507_8af53393.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alps Goodness Fenugreek, Biotin and Redensyl Anti Hairfall Conditioner",
+      "volume": "200 ml",
+      "price": 274,
+      "original_price": 325,
+      "discount": "16% off",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/259394/alps-goodness-fenugreek-biotin-and-redensyl-anti-hairfall-conditioner-200-ml_16_display_1684904329_f5036e63.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Love Beauty & Planet Onion, BlackSeed & Patchouli Hairfall Control Conditioner",
+      "volume": "200 ml",
+      "price": 331,
+      "original_price": 400,
+      "discount": "17% off",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/266072/naturali-hairfall-arrest-conditioner-180ml_1_display_1703051460_75dcf645.jpg"
+    },
+    {
+      "id": 5,
+      "name": "MATRIX Opti.Care Professional Smooth Straight Conditioner",
+      "volume": "unknown",
+      "price": 335,
+      "original_price": null,
+      "discount": null,
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-AD_35x235_small_kJWM53nMn1.png,w-60,lfo-top_right,l-end,dpr-2/static/img/product/372423/elle18-2timing-lip-and-cheek-tint-tropicana-4ml_1_display_1704276932_9c99e94e.jpg"
+    }
+  ],
+  "saller": [
+    {
+      "id": 6,
+      "name": "MATRIX Opti.Care Professional Smooth Straight",
+      "volume": "98g",
+      "price": "₹335",
+      "discount": "",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/371005/alps-goodness-rosemary-water-100ml-rosemary-water-for-hair-hair-spray-for-hair-growth-1_1_display_1718890006_37cbbaf9.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Bblunt Advanced Smoothing Conditioner with Keratin &",
+      "volume": "100ml",
+      "price": "₹399",
+      "discount": "10% off",
+      "discounted_price": "₹359",
+      "offer": "Extra 5% off on 399+",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/345982/dermdoc-by-purplle-5-percentage-glycolic-acid-under-arm-treatment-100ml-darkened-underarms-lightening-spray-body-odour-dark-elbow-dark-neck-spray-glycolic-acid_1_display_1715771177_fd482e82.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Biolage Professional Fiberstrong Anti-Breakage Conditioner",
+      "volume": "95ml",
+      "price": "₹310",
+      "discount": "",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/383446/alps-goodness-hair-growth-expert-kit-pack-of-2-1_1_display_1710307804_3cc73986.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Naturali Damage Repair Conditioner with Moringa Oil &",
+      "volume": "180ml",
+      "price": "₹275",
+      "discount": "5% off",
+      "discounted_price": "₹261",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/372911/pond-s-bb-cream-instant-spot-coverage-light-make-up-glow-ivory-18g_9_display_1653109457_086e5bbc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Bblunt 7 in 1 Repair & Revive Conditioner for Upto 100%",
+      "volume": "200ml",
+      "price": "₹399",
+      "discount": "9% off",
+      "discounted_price": "₹363",
+      "offer": "Extra 5% off on 399+",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/370136/pond-s-super-light-gel-hydrated-glow-100ml-98g_1_display_1709977053_8b9ba990.jpg"
+    }
+  ],
+  "pairings": [
+    {
+      "id": 6,
+      "name": "Good Vibes Anti Blemish Vitamin C CTSM Combo (Set of 4)",
+      "volume": "various sizes",
+      "price": "₹1014",
+      "discount": "38% off",
+      "discounted_price": "₹630",
+      "offer": "Free Lipstick on 499",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/371496/good-vibes-rosehip-range-combo-kit-ctsm-face-wash-200-ml-toner-120-ml-face-serum-10-ml-face-cream-50-g-2_1_display_1714022042_5b2fd8bc.jpg"
+    },
+    {
+      "id": 7,
+      "name": "L'Oreal Professionnel Xtenso Care Shampoo + With Combo",
+      "volume": "250 ml, 1% gm",
+      "price": "₹1420",
+      "discount": "10% off",
+      "discounted_price": "₹1278",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/373927/dermdoc-combo-kit-of-best-sellers-niacinamide-serum-glycolic-acid-underarm-brightening-spray-kojic-acid-night-cream-salicylic-acid-face-wash-value-pack-1_1_display_1707462016_4b600ef4.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Good Vibes Rosehip Range Combo Kit CTSM (Face Wash, Serum, Cream, Oil)",
+      "volume": "various sizes",
+      "price": "₹1081",
+      "discount": "38% off",
+      "discounted_price": "₹672",
+      "offer": "Free Lipstick on 499",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/367072/good-vibes-saffron-day-cream-and-ubtan-de-tan-night-cream-combo-set-of-2-2_7_display_1701869713_2321a7a5.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Good Vibes Saffron Day Cream and Ubtan De-tan Night Cream Combo",
+      "volume": "50g each",
+      "price": "₹560",
+      "discount": "31% off",
+      "discounted_price": "₹386",
+      "offer": "Free Lipstick on 499",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/367333/faces-canada-rose-glow-kit-rose-gold-strobe-cream-all-day-hydra-matte-foundation-absolute-ivory-mini-combo_1_display_1712731003_b7d136ac.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Faces Canada Waterproof Fix & Finish Kit | Makeup Fixer (50ml), Matte Foundation",
+      "volume": "50ml",
+      "price": "₹898",
+      "discount": "11% off",
+      "discounted_price": "₹799",
+      "image_url": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/355764/good-vibes-radiant-glow-vitamin-c-ctsm-combo-set-of-4-2_1_display_1685518086_848593f8.jpg"
+    }
+  ],
+  "beauty": [
+    {
+      "id": 1,
+      "name": "The Derma Co. 2% Salicylic Acid Face Serum with Witch Hazel & ...",
+      "price": "₹189",
+      "original_price": "₹210",
+      "discount": "10% off",
+      "extra_info": "Extra 5% off on 449+",
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/371894/the-derma-co-2-percentage-salicylic-acid-face-serum-with-witch-hazel-and-willow-bark-for-active-acne-8-ml_12_display_1706679604_ee790804.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Alps Goodness 100% Natural Neem Comb (Pack of 1) I Com...",
+      "price": "₹224",
+      "original_price": "₹249",
+      "discount": "10% off",
+      "extra_info": null,
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/377731/alps-goodness-100-percentage-natural-neem-comb-pack-of-1_1_display_1717160663_65c4ac06.jpg"
+    },
+    {
+      "id": 3,
+      "name": "NY Bae Truly Matte Foundation - Honey 128 I SPF 50 I Waterproof I...",
+      "price": "₹261",
+      "original_price": "₹275",
+      "discount": "5% off",
+      "extra_info": "SPF 50, Oily Skin, Undertone Olive",
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/371797/nybae-truly-matte-foundation-honey-128_1_display_1721714840_112d55ce.jpg"
+    },
+    {
+      "id": 4,
+      "name": "NY Bae Truly Matte Foundation - Ivory 118 I SPF 50 I Waterproof I...",
+      "price": "₹261",
+      "original_price": "₹275",
+      "discount": "5% off",
+      "extra_info": "SPF 50, Oily Skin, Undertone Yellow",
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/377969/renee-midnight-kohl-pencil-darkest-black-one-swipe-application-with-rich-color-payoff-smudgeproof-and-waterproof-enriched-with-vitamin-e-olive-oil-and-castor-oil-1-5-gm_1_display_1715943070_1d33d055.jpg"
+    },
+    {
+      "id": 5,
+      "name": "DERMDOC By Purplle 2% Salicylic Acid Exfoliating Toner...",
+      "price": "₹247",
+      "original_price": "₹285",
+      "discount": "13% off",
+      "extra_info": "Free Gift on 499",
+      "image": "https://media6.ppl-media.com/tr:h-250,w-250,c-at_max,dpr-2/static/img/product/367356/dermdoc-2-percentage-salicylic-acid-exfoliating-tonic-100-ml_1_display_1713766975_a3f3aefa.jpg"
+    }
+  ],
+  "newcart": [
+    {
+      "id": 1,
+      "name": "Alps Goodness Fenugreek, Biotin and Redensyl Anti Hairfall Hair Conditioner (200 ml)",
+      "description": "Methi Hairloss Control Conditioner For All Hair Types | Silicone, Sulphate & Paraben Free | Vegan & Cruelty Free",
+      "price": 260,
+      "original_price": 325,
+      "discount": "20% off",
+      "rating": 4.2,
+      "reviews": 6128,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/259394/alps-goodness-fenugreek-biotin-and-redensyl-anti-hairfall-conditioner-200-ml_16_display_1684904329_f5036e63.jpg",
+      "product_url": "https://www.purplle.com/product/alps-goodness-fenugreek-biotin-and-redensyl-anti-hairfall-conditioner-200-ml"
+    },
+    {
+      "id": 3,
+      "name": "NY Bae Eye Love Volumizing Mascara | Eye Makeup | Thick Eyelashes | Smudgeproof | Dries Quickly | Intense Black (8ml)",
+      "description": "Free Pouches & More",
+      "price": 164,
+      "original_price": 299,
+      "discount": "45% off",
+      "rating": 4.1,
+      "reviews": 1606,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/263514/ny-bae-eye-love-volumizing-mascara-8ml_1_display_1709632144_36f1644a.jpg",
+      "product_url": "https://www.purplle.com/product/ny-bae-eye-love-volumizing-mascara-8ml"
+    },
+    {
+      "id": 4,
+      "name": "Minimalist 10% Vitamin B5 Oil Free Moisturizer with Zinc, Copper, Magnesium & HA for Oily skin",
+      "description": "4 offers",
+      "price": 332,
+      "original_price": 349,
+      "discount": "5% off",
+      "rating": 4.2,
+      "reviews": 633,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/273085/minimalist-10-percentage-vitamin-b5-oil-free-moisturizer-with-zinc-copper-magnesium-and-ha-for-oily-skin_2_display_1654863544_edafbafe.jpg",
+      "product_url": "https://www.purplle.com/product/minimalist-10-percentage-vitamin-b5-oil-free-moisturizer-with-zinc-copper-magnesium-and-ha-for-oily-skin"
+    },
+    {
+      "id": 5,
+      "url": "https://www.purplle.com/product/10-percentage-vitamin-c-face-serum-for-skin-radiance-30-ml-16",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/271992/10-percentage-vitamin-c-face-serum-for-skin-radiance-30-ml-16_01_display_1713176746_90b5ca98.jpg",
+      "name": "The Derma Co. 10% Vitamin C Face Serum with 5% Niacinamide & Hyaluronic Acid For Skin Radiance - 30ml",
+      "price": 545,
+      "original_price": 649,
+      "discount": "16% off",
+      "rating": 3.9,
+      "reviews": 1259,
+      "offer": "Extra 5% off on 449+"
+    },
+    {
+      "id": 6,
+      "url": "https://www.purplle.com/product/good-vibes-sheet-mask-papaya-20ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/279073/good-vibes-sheet-mask-papaya-20ml_1_display_1651472203_0b859f6d.jpg",
+      "name": "Good Vibes Papaya Brightening Sheet Mask | Glowing Softening Anti-Pigmentation | (20 gm)",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.2,
+      "reviews": 570,
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 7,
+      "url": "https://www.purplle.com/product/renee-black-magic-madness-ph-stick-3g",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/279039/renee-black-magic-madness-ph-stick-3g_2_display_1652612961_60847d87.jpg",
+      "name": "RENEE Black Magic Madness PH Stick, 3g",
+      "price": 425,
+      "original_price": 499,
+      "discount": "15% off",
+      "rating": 3.9,
+      "reviews": 411,
+      "offer": "4 offers"
+    },
+    {
+      "id": 8,
+      "url": "https://www.purplle.com/product/good-vibes-insta-glow-face-serum-ubtan-30-ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/276837/good-vibes-insta-glow-face-serum-ubtan-30-ml_3_display_1695299802_ca46ce86.jpg",
+      "name": "Good Vibes Ubtan Insta Glow Face Serum | Brightening, Moisturizing | Vegan, No Parabens, No Sulphates, No Mineral Oil, No Animal Testing (30 ml)",
+      "price": 427,
+      "original_price": 450,
+      "discount": "5% off",
+      "rating": 4.2,
+      "reviews": 1099,
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 9,
+      "url": "https://www.purplle.com/product/simple-kind-to-skin-hydrating-light-moisturiser-125-ml-1-20-17",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/271585/simple-kind-to-skin-hydrating-light-moisturiser-125-ml-1-20-17_1_display_1720608433_46c5772f.jpg",
+      "name": "Simple Kind to Skin Hydrating Light Moisturiser| For all skin types | No Added Perfume, No Harsh Chemicals, No Artificial Color, No Alcohol and No Parabens | 125 ml",
+      "price": 326,
+      "original_price": 465,
+      "discount": "30% off",
+      "rating": 4.4,
+      "reviews": 1009
+    },
+    {
+      "id": 10,
+      "url": "https://www.purplle.com/product/alps-goodness-fenugreek-biotin-and-redensyl-anti-hair-fall-hair-mask-175-g",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/262444/alps-goodness-fenugreek-biotin-and-redensyl-anti-hair-fall-hair-mask-175-g_1_display_1686058161_4e6a0217.jpg",
+      "name": "Alps Goodness Fenugreek, Biotin & Redensyl Anti Hair Fall Hair Mask (175 g)| Hairfall Hair Mask| Alps Goodness Hair Mask",
+      "price": 276,
+      "original_price": 425,
+      "discount": "35% off",
+      "rating": 4.3,
+      "reviews": 366
+    },
+    {
+      "id": 11,
+      "url": "https://www.purplle.com/product/alps-goodness-coconut-argan-oil-and-hyaluronic-acid-hydrating-and-moisturizing-conditioner-for-dry-hair-200-ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/259395/alps-goodness-coconut-argan-oil-and-hyaluronic-acid-hydrating-and-moisturizing-conditioner-for-dry-hair-200-ml_15_display_1667380679_c0a62b5e.jpg",
+      "name": "Alps Goodness Coconut, Argan Oil & Hyaluronic Acid Hydrating & Moisturizing Conditioner For Dry Hair(200 ml)| No Nasties| CGM Friendly| Silicone Free",
+      "price": 217,
+      "original_price": 325,
+      "discount": "33% off",
+      "rating": 4.2,
+      "reviews": 733
+    },
+    {
+      "id": 12,
+      "url": "https://www.purplle.com/product/good-vibes-sheet-mask-pearl-20ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-Best_seller_700x700base_gUMVzNGWt_.png,lfo-top_right,l-end,dpr-2/static/img/product/279068/good-vibes-sheet-mask-pearl-20ml_1_display_1651498552_689e32a0.jpg",
+      "name": "Good Vibes Pearl Illuminating Sheet Mask | For Bright & Glowing Skin | Suitable For All Skin Types (20 g)",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.3,
+      "reviews": 986,
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 13,
+      "name": "Good Vibes Coffee Brightening Sheet Mask",
+      "description": "Nourishing, Softening | Vegan, No Parabens, No Sulphates, No Mineral, No Animal Testing (20 g)",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.4,
+      "reviews": 348,
+      "url": "https://www.purplle.com/product/good-vibes-brightening-sheet-mask-coffee-20g",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/291296/good-vibes-brightening-sheet-mask-coffee-20g_1_display_1650958221_513744e6.jpg",
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 14,
+      "name": "Alps Goodness Amla, Jasmine & Ceramide Hair Oil for Stronger Hair (95 ml)",
+      "description": "Lightweight Oil| Light oil for everyday use| Silicone Free, Sulphate Free, Mineral Oil Free, Vegan, Cruelty Free",
+      "price": 150,
+      "original_price": 225,
+      "discount": "33% off",
+      "rating": 4.3,
+      "reviews": 189,
+      "url": "https://www.purplle.com/product/alps-goodness-amla-jasmine-and-ceramide-hair-oil-for-stronger-hair-100-ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/265953/alps-goodness-amla-jasmine-and-ceramide-hair-oil-for-stronger-hair-100-ml_9_display_1668072427_a46c8be1.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Good Vibes Rosehip Radiance Sheet Mask",
+      "description": "Glowing, Moisturizing | Vegan, No Parabens, No Sulphates, No Alcohol, No Animal Testing (20 ml)",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.4,
+      "reviews": 280,
+      "url": "https://www.purplle.com/product/good-vibes-sheet-mask-rosehip-20ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/279074/good-vibes-sheet-mask-rosehip-20ml_1_display_1651212540_599960b5.jpg",
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 16,
+      "name": "NY Bae Eye Love Curling Mascara",
+      "description": "Eye Makeup | Thick Curled Eyelashes | Smudgeproof | Dries Quickly | Intense Black (8ml)",
+      "price": 194,
+      "original_price": 299,
+      "discount": "35% off",
+      "rating": 4,
+      "reviews": 839,
+      "url": "https://www.purplle.com/product/ny-bae-eye-love-curling-mascara-8ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/263513/ny-bae-eye-love-curling-mascara-8ml_1_display_1709632094_cb285b07.jpg",
+      "offer": "Free Pouches & More"
+    },
+    {
+      "id": 17,
+      "name": "Alps Goodness Powder - Ubtan (75 g)",
+      "description": "100% Natural Powder | No Chemicals, No Preservatives, No Pesticides | Can be used for Hair Mask and Face Mask | Nourishes hair follicles| Glow Face Pack| Ubtan Face Pack",
+      "price": 142,
+      "original_price": 150,
+      "discount": "5% off",
+      "rating": 4.3,
+      "reviews": 3710,
+      "url": "https://www.purplle.com/product/alps-goodness-ubtan-powder-75-g",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/276522/alps-goodness-ubtan-powder-75-g_12_display_1675174903_b9cb6af8.jpg"
+    },
+    {
+      "id": 18,
+      "name": "NY Bae Multipurpose Face Brush",
+      "description": "Smooth Blending | Even Application | Fine & Soft Bristles",
+      "price": 151,
+      "original_price": 275,
+      "discount": "45% off",
+      "rating": 4.3,
+      "reviews": 342,
+      "url": "https://www.purplle.com/product/ny-bae-multipurpose-face-brush",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/267472/ny-bae-multipurpose-face-brush_6_display_1670492270_cc0dd435.jpg",
+      "offer": "Free Pouches & More"
+    },
+    {
+      "id": 19,
+      "name": "Mamaearth Vitamin C Night Cream with Vitamin C & Gotu Kola for Skin Illumination – 50g",
+      "description": "",
+      "price": 479,
+      "original_price": 599,
+      "discount": "20% off",
+      "rating": 4.4,
+      "reviews": 86,
+      "url": "https://www.purplle.com/product/mamaearth-vitamin-c-night-cream-for-women-with-vitamin-c-and-gotu-kola-for-skin-illumination-50g",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/273358/mamaearth-vitamin-c-night-cream-for-women-with-vitamin-c-and-gotu-kola-for-skin-illumination-50g_6_display_1642141353_f56dfd04.jpg",
+      "offer": "Extra 5% off on 399+"
+    },
+    {
+      "id": 20,
+      "name": "Nature's Essence Brightening Diamond Facial Kit",
+      "description": "",
+      "price": 168,
+      "original_price": 280,
+      "discount": "40% off",
+      "rating": 4.3,
+      "reviews": 233,
+      "url": "https://www.purplle.com/product/nature-s-essence-brightening-diamond-facial-kit-37",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/271958/nature-s-essence-brightening-diamond-facial-kit-37_1_display_1689584448_6c624546.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Good Vibes Orange Refreshing Sheet Mask",
+      "description": "Rejuvenating, For Glowing Skin | Vegan, No Parabens, No Sulphates, No Alcohol, No Animal Testing (20 g)",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.4,
+      "reviews": 282,
+      "url": "https://www.purplle.com/product/good-vibes-sheet-mask-orange-20ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/279069/good-vibes-sheet-mask-orange-20ml_1_display_1650627017_cb9b8d27.jpg",
+      "offer": "Free Gift on 499"
+    },
+    {
+      "id": 22,
+      "name": "Belora Paris Leave No Evidence Liquid Matte Lipstick - 31 Pink Champagne",
+      "url": "https://www.purplle.com/product/belora-paris-leave-no-evidence-liquid-matte-lipstick-31-pink-champagne",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/284427/belora-paris-leave-no-evidence-liquid-matte-lipstick-31-pink-champagne_1_display_1675161734_05a83c23.jpg",
+      "price": 499,
+      "original_price": 899,
+      "discount": "44% off",
+      "rating": 3.9,
+      "reviews": 40
+    },
+    {
+      "id": 23,
+      "name": "Alps Goodness Lemon, Curd & ZPTO Anti Dandruff Hair Mask (175 gm)",
+      "url": "https://www.purplle.com/product/alps-goodness-curd-lemon-and-zpto-anti-dandruff-hair-mask-175-gm",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/264104/alps-goodness-curd-lemon-and-zpto-anti-dandruff-hair-mask-175-gm_9_display_1646649065_f6e0a958.jpg",
+      "price": 276,
+      "original_price": 425,
+      "discount": "35% off",
+      "rating": 4.3,
+      "reviews": 136
+    },
+    {
+      "id": 24,
+      "name": "NY Bae Eye Love False Eyelashes With Adhesive - High Volume 02",
+      "url": "https://www.purplle.com/product/ny-bae-eye-love-false-eyelashes-with-adhesive-high-volume-02",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/269131/ny-bae-eye-love-false-eyelashes-with-adhesive-high-volume-02_5_display_1697107167_423a1843.jpg",
+      "price": 98,
+      "original_price": 149,
+      "discount": "34% off",
+      "rating": 4.2,
+      "reviews": 250,
+      "offers": "Free Pouches & More"
+    },
+    {
+      "id": 25,
+      "name": "Good Vibes Ubtan Insta Glow Shower Gel (300 ml)",
+      "url": "https://www.purplle.com/product/good-vibes-insta-glow-shower-gel-ubtan-300-ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/279079/good-vibes-insta-glow-shower-gel-ubtan-300-ml_8_display_1712217938_de91852d.jpg",
+      "price": 331,
+      "original_price": 349,
+      "discount": "5% off",
+      "rating": 4.3,
+      "reviews": 258,
+      "offers": "2 offers"
+    },
+    {
+      "id": 26,
+      "name": "NY Bae Pro Foundation Brush",
+      "url": "https://www.purplle.com/product/ny-bae-pro-foundation-brush",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/267473/ny-bae-pro-foundation-brush_5_display_1670492326_657a6123.jpg",
+      "price": 173,
+      "original_price": 225,
+      "discount": "23% off",
+      "rating": 4.3,
+      "reviews": 1089,
+      "offers": "Free Pouches & More"
+    },
+    {
+      "id": 27,
+      "name": "Purplle Blushing in Berry - Matte Blush Palette (10.5 gm)",
+      "url": "https://www.purplle.com/product/purplle-blushing-in-berry-matte-blush-palette-10-5-gm",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/270340/purplle-blushing-in-berry-matte-blush-palette-10-5-gm_8_display_1662362057_74213ad9.jpg",
+      "price": 301,
+      "original_price": 549,
+      "discount": "45% off",
+      "rating": 3.9,
+      "reviews": 142
+    },
+    {
+      "id": 28,
+      "name": "Good Vibes Cucumber & Lemon Wrinkle & Puffiness Reduction Under Eye Patch (20 ml)",
+      "url": "https://www.purplle.com/product/good-vibes-wrinkle-and-puffiness-reducer-under-eye-patch-cucumber-and-lemon-20-ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/267299/good-vibes-wrinkle-and-puffiness-reducer-under-eye-patch-cucumber-and-lemon-20-ml_1_display_1644302555_70b0e531.jpg",
+      "price": 269,
+      "original_price": 299,
+      "discount": "10% off",
+      "rating": 4.3,
+      "reviews": 181,
+      "offers": "Free Gift on 499"
+    },
+    {
+      "id": 29,
+      "name": "NY Bae Pro Blush + Highlighter Palette - 01 (16 g)",
+      "url": "https://www.purplle.com/product/ny-bae-pro-blush-and-highlighter-palette-01-16-gm",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/275742/ny-bae-pro-blush-and-highlighter-palette-01-16-gm_7_display_1669901045_206ff78f.jpg",
+      "price": 290,
+      "original_price": 529,
+      "discount": "45% off",
+      "rating": 4.1,
+      "reviews": 218,
+      "offers": "Free Pouches & More"
+    },
+    {
+      "id": 30,
+      "name": "Purplle Hyaluronic Kiss Goodnight Night Gel (45 gm)",
+      "url": "https://www.purplle.com/product/purplle-hyaluronic-kiss-goodnight-night-gel-45-gm",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/259042/purplle-hyaluronic-kiss-goodnight-night-gel-45-gm_2_display_1662362099_19e60b60.jpg",
+      "price": 396,
+      "original_price": 440,
+      "discount": "10% off",
+      "rating": 4.2,
+      "reviews": 111
+    },
+    {
+      "id": 31,
+      "name": "Good Vibes Bakuchiol Age Defying Sheet Mask (20 gm)",
+      "url": "https://www.purplle.com/product/good-vibes-sheet-mask-bakuchiol-20ml",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/279072/good-vibes-sheet-mask-bakuchiol-20ml_1_display_1651498578_53d8ecef.jpg",
+      "price": 94,
+      "original_price": 99,
+      "discount": "5% off",
+      "rating": 4.4,
+      "reviews": 178,
+      "offers": "Free Gift on 499"
+    },
+    {
+      "id": 32,
+      "name": "NY Bae Smudge Proof Liquid Lipstick - Plum Pout 02",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/250555/ny-bae-smudge-proof-liquid-lipstick-plum-pout-2-5ml_1_display_1690351623_d15d5261.jpg",
+      "description": "NY Bae Smudge Proof Liquid Lipstick | Long Lasting | Super Pigmented | Red Lipstick | Matte Finish - Plum Pout 02 (2.5 ml)",
+      "price": "₹129",
+      "original_Price": "₹240",
+      "discount": "46% off",
+      "rating": 4.1,
+      "reviews": 201
+    },
+    {
+      "id": 33,
+      "name": "Purplle Queen Skin White Gua Sha",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-@@mediafiles@@mailers@@banners@@1659451450_new-tag.png,w-115,lfo-top_right,l-end,dpr-2/static/img/product/270021/purplle-queen-skin-white-gua-sha_2_display_1646896575_0ef9c03c.jpg",
+      "description": "Purplle Queen Skin White Gua Sha",
+      "price": "₹585",
+      "original_price": "₹650",
+      "discount": "10% off",
+      "rating": 4.5,
+      "reviews": 73
+    },
+    {
+      "id": 34,
+      "name": "NY Bae Eye Love False Eyelashes With Adhesive - Ultimate Lashes 04",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/269133/ny-bae-eye-love-false-eyelashes-with-adhesive-ultimate-lashes-04_5_display_1697107228_384812c5.jpg",
+      "description": "NY Bae Eye Love False Eyelashes With Adhesive| Easy Application | Comfortable | Long Staying - Ultimate Lashes 04",
+      "price": "₹98",
+      "original_price": "₹149",
+      "discount": "34% off",
+      "rating": 4.1,
+      "reviews": 135,
+      "freePouches": true
+    },
+    {
+      "id": 35,
+      "name": "NY Bae Creme Nail Paint - Warm Beige 31",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/257670/ny-bae-creme-nail-paint-warm-beige-31-10-ml_3_display_1674547638_19665e71.jpg",
+      "description": "NY Bae Creme Nail Paint - Warm Beige 31 (10 ml) | Nude | Rich Pigment | Chip-proof | Full Coverage | Travel Friendly | Vegan",
+      "price": "₹104",
+      "original_price": "₹110",
+      "discount": "5% off",
+      "rating": 4,
+      "reviews": 68,
+      "freePouches": true
+    },
+    {
+      "id": 36,
+      "name": "Alps Goodness Powder - Orange Peel",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/276525/alps-goodness-orange-peel-powder-75-g_12_display_1667387985_eea54404.jpg",
+      "description": "Alps Goodness Powder - Orange Peel (75 g)| 100% Natural Powder | No Chemicals, No Preservatives, No Pesticides | Can be used for Hair Mask and Face Mask | Nourishes hair follicles| Glow Face Pack| Orange Peel Face Pack",
+      "price": "₹142",
+      "original_price": "₹150",
+      "discount": "5% off",
+      "rating": 4.3,
+      "reviews": 7361
+    },
+    {
+      "id": 37,
+      "name": "Purplle VIVIFY Max Volume + Length Mascara",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/259186/purplle-vivify-max-volume-length-mascara-9-5-gm_9_display_1664793695_fbffedfe.jpg",
+      "description": "Purplle VIVIFY Max Volume + Length Mascara | Volumizing | Lenghtening | Long lasting | Smudgeproof (9.5 gm)",
+      "price": "₹280",
+      "original_price": "₹510",
+      "discount": "45% off",
+      "rating": 4.3,
+      "reviews": 453
+    },
+    {
+      "id": 38,
+      "name": "NY Bae Creme Nail Paint - Charcoal Grey 19",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/257512/ny-bae-creme-nail-paint-charcoal-grey-19-10-ml_3_display_1674547270_577b0b8c.jpg",
+      "description": "NY Bae Creme Nail Paint - Charcoal Grey 19 (10 ml) | Grey | Rich Pigment | Chip-proof | Full Coverage | Travel Friendly | Vegan",
+      "price": "₹99",
+      "original_price": "₹110",
+      "discount": "10% off",
+      "rating": 4.4,
+      "reviews": 23,
+      "freePouches": true
+    },
+    {
+      "id": 39,
+      "name": "NY Bae Creme Nail Paint - Tortilla Nude 23",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/257662/ny-bae-creme-nail-paint-tortilla-nude-23-10-ml_3_display_1674547391_0d66ad0b.jpg",
+      "description": "NY Bae Creme Nail Paint - Tortilla Nude 23 (10 ml) | Brown | Rich Pigment | Chip-proof | Full Coverage | Travel Friendly | Vegan",
+      "price": "₹99",
+      "original_price": "₹110",
+      "discount": "10% off",
+      "rating": 4.4,
+      "reviews": 77,
+      "freePouches": true
+    },
+    {
+      "id": 40,
+      "name": "NY Bae Creme Nail Paint - Hunter Green 06",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/257499/ny-bae-creme-nail-paint-hunter-green-06-10-ml_3_display_1674546856_6a429854.jpg",
+      "description": "NY Bae Creme Nail Paint - Hunter Green 06 (10 ml) | Grey | Rich Pigment | Chip-proof | Full Coverage | Travel Friendly | Vegan",
+      "price": "₹99",
+      "original_price": "₹110",
+      "discount": "10% off",
+      "rating": 4.2,
+      "reviews": 50,
+      "freePouches": true
+    }
+  ],
+  "onecart": [
+    {
+      "id": 3,
+      "name": "NY Bae Eye Love Volumizing Mascara | Eye Makeup | Thick Eyelashes | Smudgeproof | Dries Quickly | Intense Black (8ml)",
+      "description": "Free Pouches & More",
+      "price": 164,
+      "original_price": 299,
+      "discount": "45% off",
+      "rating": 4.1,
+      "reviews": 1606,
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,l-image,i-purplle_exclusive_base_1__1__BytKq6D4b.png,lfo-top_right,l-end,dpr-2/static/img/product/263514/ny-bae-eye-love-volumizing-mascara-8ml_1_display_1709632144_36f1644a.jpg",
+      "product_url": "https://www.purplle.com/product/ny-bae-eye-love-volumizing-mascara-8ml"
+    },
+    {
+      "id": 20,
+      "name": "Nature's Essence Brightening Diamond Facial Kit",
+      "description": "",
+      "price": 168,
+      "original_price": 280,
+      "discount": "40% off",
+      "rating": 4.3,
+      "reviews": 233,
+      "url": "https://www.purplle.com/product/nature-s-essence-brightening-diamond-facial-kit-37",
+      "image": "https://media6.ppl-media.com/tr:h-235,w-235,c-at_max,dpr-2/static/img/product/271958/nature-s-essence-brightening-diamond-facial-kit-37_1_display_1689584448_6c624546.jpg"
+    }
+  ]
+}
