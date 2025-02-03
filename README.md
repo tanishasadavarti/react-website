@@ -1,8 +1,10 @@
-# React + Vite
+# purplle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-Built a Purplle website using HTML, CSS, JavaScript, and React.js for a dynamic user experience.
+Created a product page that fetches and displays products dynamically.Developed a product description page to show detailed information about each product.
+Implemented Firebase Authentication for secure user login and sign-up.Designed an add-to-cart feature that stores selected products for checkout.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+Output video : "https://drive.google.com/file/d/1_1wLOHNmOjZt0v4mVXwqLK3x58vj6Loa/view?usp=sharing"
